@@ -1,0 +1,11 @@
+﻿  DbCore.cpp
+c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.h(335): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.cpp(62): note: 参见对正在编译的函数 模板 实例化“void NoSqlDb::showDb<PayLoad>(NoSqlDb::DbCore<PayLoad> &,std::ostream &)”的引用
+c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.h(266): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.h(260): note: 编译 类 模板 成员函数 "bool NoSqlDb::DbCore<PayLoad>::delChild(NoSqlDb::DbCore<PayLoad>::Key,NoSqlDb::DbCore<PayLoad>::Key)" 时
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.h(337): note: 参见对正在编译的函数 模板 实例化“bool NoSqlDb::DbCore<PayLoad>::delChild(NoSqlDb::DbCore<PayLoad>::Key,NoSqlDb::DbCore<PayLoad>::Key)”的引用
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.h(143): note: 编译 类 模板 成员函数 "NoSqlDb::DbCore<PayLoad>::Keys NoSqlDb::DbCore<PayLoad>::keys(void)" 时
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.cpp(56): note: 参见对正在编译的函数 模板 实例化“NoSqlDb::DbCore<PayLoad>::Keys NoSqlDb::DbCore<PayLoad>::keys(void)”的引用
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.cpp(34): note: 参见对正在编译的 类 模板 实例化 "NoSqlDb::DbCore<PayLoad>" 的引用
+  DbCore.vcxproj -> C:\Users\Biao A\Documents\studu\687\Pro1\NoSqlDb\NoSqlDb\Debug\DbCore.exe
+  DbCore.vcxproj -> C:\Users\Biao A\Documents\studu\687\Pro1\NoSqlDb\NoSqlDb\Debug\DbCore.pdb (Partial PDB)

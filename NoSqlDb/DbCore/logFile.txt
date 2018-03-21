@@ -1,0 +1,64 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue Feb  6 17:20:34 2018
+     Path: "C:\Users\Biao A\Documents\studu\687\code\NoSqlDb (2)\DbCore"
+     Args: DbCore.h, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      58
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  DbCore.h   namespace                            NoSqlDb      42     304      57
+                  DbCore.h       class                          DbElement      49      35      20
+                  DbCore.h    function                               name      56       2       1
+                  DbCore.h    function                               name      57       2       1
+                  DbCore.h    function                               name      58       2       1
+                  DbCore.h    function                            descrip      60       2       1
+                  DbCore.h    function                            descrip      61       2       1
+                  DbCore.h    function                            descrip      62       2       1
+                  DbCore.h    function                           dateTime      64       2       1
+                  DbCore.h    function                           dateTime      65       2       1
+                  DbCore.h    function                           dateTime      66       2       1
+                  DbCore.h    function                           children      68       2       1
+                  DbCore.h    function                           children      69       2       1
+                  DbCore.h    function                           children      70       2       1
+                  DbCore.h    function                            payLoad      72       2       1
+                  DbCore.h    function                            payLoad      73       2       1
+                  DbCore.h    function                            payLoad      74       2       1
+                  DbCore.h    function                             addEle     203       9       2
+                  DbCore.h    function                            replace     215      10       2
+                  DbCore.h       class                             DbCore      92      35      26
+                  DbCore.h    function                              begin     106       2       1
+                  DbCore.h    function                                end     107       2       1
+                  DbCore.h    function                            dbStore     111       2       1
+                  DbCore.h    function                            dbStore     112       2       1
+                  DbCore.h    function                            dbStore     113       2       1
+                  DbCore.h    function                           contains     135       4       1
+                  DbCore.h    function                               keys     143      11       2
+                  DbCore.h    function                               size     158       3       1
+                  DbCore.h    function                         operator[]     167       7       2
+                  DbCore.h    function                         operator[]     180       7       2
+                  DbCore.h    function                          deleteEle     190      10       2
+                  DbCore.h    function                               edit     228      18       4
+                  DbCore.h    function                           addChild     249       8       2
+                  DbCore.h    function                           delChild     260      16       4
+                  DbCore.h    function                           showKeys     284       7       2
+                  DbCore.h    function                         showHeader     294      12       1
+                  DbCore.h    function                           showElem     310      16       3
+                  DbCore.h    function                             showDb     330      15       4
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     1 files

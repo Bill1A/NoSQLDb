@@ -1,0 +1,53 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Tue Feb  6 17:21:15 2018
+     Path: "C:\Users\Biao A\Documents\studu\687\code\NoSqlDb (2)\Query"
+     Args: Query.h, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      40
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Query.h       class                          Condition      46      39      12
+                   Query.h    function                          Condition      50       6       1
+                   Query.h    function                               name      57       2       1
+                   Query.h    function                               name      58       2       1
+                   Query.h    function                            descrip      60       2       1
+                   Query.h    function                            descrip      61       2       1
+                   Query.h    function                         keyPattern      63       2       1
+                   Query.h    function                         keyPattern      64       1       1
+                   Query.h    function                       timeInterval      67       6       1
+                   Query.h    function                          timeBegin      72       2       1
+                   Query.h    function                            timeEnd      73       2       1
+                   Query.h    function                        timeDefault      74       2       1
+                   Query.h       class                              Query      91      25      27
+                   Query.h    function                              Query      96       1       1
+                   Query.h    function                               keys     105       1       1
+                   Query.h    function                             select     122      12       2
+                   Query.h    function                       selectOneKey     137      14       3
+                   Query.h    function                     selectChildren     154      13       3
+                   Query.h    function                         selectPath     170      16       4
+                   Query.h    function                               from     189       4       1
+                   Query.h    function                                and     196       9       1
+                   Query.h    function                                 or     208      10       1
+                   Query.h    function                               show     221       7       1
+                   Query.h    function                         selectName     234      11       2
+                   Query.h    function                          selectKey     248      11       2
+                   Query.h    function                      selectDescrip     262      11       2
+                   Query.h    function                     selectInterval     276       9       2
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     1 files

@@ -1,0 +1,15 @@
+﻿  Test.cpp
+c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.h(266): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.h(260): note: 编译 类 模板 成员函数 "bool NoSqlDb::DbCore<PayLoad>::delChild(NoSqlDb::DbCore<PayLoad>::Key,NoSqlDb::DbCore<PayLoad>::Key)" 时
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\test\test.cpp(225): note: 参见对正在编译的函数 模板 实例化“bool NoSqlDb::DbCore<PayLoad>::delChild(NoSqlDb::DbCore<PayLoad>::Key,NoSqlDb::DbCore<PayLoad>::Key)”的引用
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\test\test.cpp(63): note: 参见对正在编译的 类 模板 实例化 "NoSqlDb::DbCore<PayLoad>" 的引用
+c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\dbcore\dbcore.h(335): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\test\test.cpp(167): note: 参见对正在编译的函数 模板 实例化“void NoSqlDb::showDb<PayLoad>(NoSqlDb::DbCore<PayLoad> &,std::ostream &)”的引用
+c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\query\query.h(160): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\query\query.h(154): note: 编译 类 模板 成员函数 "Query<PayLoad> &Query<PayLoad>::selectChildren(Query<PayLoad>::Key)" 时
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\test\test.cpp(274): note: 参见对正在编译的函数 模板 实例化“Query<PayLoad> &Query<PayLoad>::selectChildren(Query<PayLoad>::Key)”的引用
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\test\test.cpp(255): note: 参见对正在编译的 类 模板 实例化 "Query<PayLoad>" 的引用
+c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\query\query.h(180): warning C4018: “<”: 有符号/无符号不匹配
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\query\query.h(170): note: 编译 类 模板 成员函数 "Query<PayLoad> &Query<PayLoad>::selectPath(std::string)" 时
+  c:\users\biao a\documents\studu\687\pro1\nosqldb\nosqldb\test\test.cpp(469): note: 参见对正在编译的函数 模板 实例化“Query<PayLoad> &Query<PayLoad>::selectPath(std::string)”的引用
+  Test.vcxproj -> C:\Users\Biao A\Documents\studu\687\Pro1\NoSqlDb\NoSqlDb\Debug\Test.lib
